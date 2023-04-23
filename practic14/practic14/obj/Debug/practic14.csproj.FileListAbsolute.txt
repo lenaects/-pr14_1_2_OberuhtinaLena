@@ -1,0 +1,15 @@
+C:\Users\305-6\Desktop\oberuhtina\osnova\practic14\practic14\bin\Debug\practic14.exe.config
+C:\Users\305-6\Desktop\oberuhtina\osnova\practic14\practic14\bin\Debug\practic14.exe
+C:\Users\305-6\Desktop\oberuhtina\osnova\practic14\practic14\bin\Debug\practic14.pdb
+C:\Users\305-6\Desktop\oberuhtina\osnova\practic14\practic14\obj\Debug\practic14.csproj.AssemblyReference.cache
+C:\Users\305-6\Desktop\oberuhtina\osnova\practic14\practic14\obj\Debug\practic14.csproj.CoreCompileInputs.cache
+C:\Users\305-6\Desktop\oberuhtina\osnova\practic14\practic14\obj\Debug\practic14.exe
+C:\Users\305-6\Desktop\oberuhtina\osnova\practic14\practic14\obj\Debug\practic14.pdb
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic14\practic14\bin\Debug\practic14.exe.config
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic14\practic14\bin\Debug\practic14.exe
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic14\practic14\bin\Debug\practic14.pdb
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic14\practic14\obj\Debug\practic14.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic14\practic14\obj\Debug\practic14.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic14\practic14\obj\Debug\practic14.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic14\practic14\obj\Debug\practic14.exe
+C:\Users\Дмитрий\Desktop\лена програмирование\osnova_algoritm\practic14\practic14\obj\Debug\practic14.pdb
